@@ -3,7 +3,7 @@
 This repository contains the **backend** API for **STUDENT DASHBOARD/MANAGEMENT SYSTEM** built with Laravel.
 
 ---
-1.### Screenshots
+1. ### Screenshots
 
 ![Login screen](https://docs.google.com/document/d/1tE-BZMJcpcrUbfVhmqkbjr1hhDAaPcdhIifO0fA3ewI/edit?tab=t.0)
 ![Dashboard](https://docs.google.com/document/d/1bwpPzB7CxmhFT8TJLfKhLHRs7VfbMHjl_-jMzDG6RF0/edit?tab=t.0)

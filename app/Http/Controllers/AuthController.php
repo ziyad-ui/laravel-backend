@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
 use App\Models\User;
 
 class AuthController extends Controller
@@ -15,16 +16,13 @@ class AuthController extends Controller
             'password' => ['required'],
         ]);
 
-        $user = User::firstOrCreate(
-            ['email' => $credentials['email']],
-            ['name' => $credentials['email']]
-        );
+        if (!Auth::attempt($credentials)) {
+            return response()->json([
+                'message' => 'Invalid credentials.',
+            ], 401);
+        }
 
-        // Always sync the password with the latest value entered.
-        $user->password = $credentials['password'];
-        $user->save();
-
-        Auth::login($user);
+        $user = $request->user() ?? Auth::user();
 
         $token = $user->createToken('dashboard-token')->plainTextToken;
 

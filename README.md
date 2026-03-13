@@ -3,13 +3,13 @@
 This repository contains the **backend** API for **STUDENT DASHBOARD/MANAGEMENT SYSTEM** built with Laravel.
 
 ---
-1. ### Screenshots
+### 1. Screenshots
 
-![Login screen](https://docs.google.com/document/d/1tE-BZMJcpcrUbfVhmqkbjr1hhDAaPcdhIifO0fA3ewI/edit?tab=t.0)
-![Dashboard](https://docs.google.com/document/d/1bwpPzB7CxmhFT8TJLfKhLHRs7VfbMHjl_-jMzDG6RF0/edit?tab=t.0)
-![Student Insights Overview](https://docs.google.com/document/d/1ALzH5ywuicp-YIKOD3g5sjHUS-8LGDwn51yiC72_p3c/edit?tab=t.0)
-![Attendance Over School Days](https://docs.google.com/document/d/1GM5wJXoLNjIi72ImXn7zXQ5x_5n86SDs1XmqSxnAuo4/edit?tab=t.0)
-![Weather Forcast](https://docs.google.com/document/d/19eRlZH5MVSeQS_5JEZomiPnlT0yQRpVRsEVZWZQPDN4/edit?tab=t.0)
+![Login screen](docs/screenshots/login-screen.png)
+![Dashboard](docs/screenshots/dashboard.png)
+![Student Insights Overview](docs/screenshots/student-insights.png)
+![Attendance Over School Days](docs/screenshots/attendance.png)
+![Weather Fore cast](docs/screenshots/weather.png)
 
 ---
 

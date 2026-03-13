@@ -5,11 +5,11 @@ This repository contains the **backend** API for **STUDENT DASHBOARD/MANAGEMENT 
 ---
 ### 1. Screenshots
 
-![Login screen](docs/screenshots/login-screen.png)
-![Dashboard](docs/screenshots/dashboard.png)
-![Student Insights Overview](docs/screenshots/student-insights.png)
-![Attendance Over School Days](docs/screenshots/attendance.png)
-![Weather Fore cast](docs/screenshots/weather.png)
+![Login](docs/screenshots/login.jpg)
+![Dashboard](docs/screenshots/dashboard.jpg)
+![Student Insight View](docs/screenshots/Student Insight View.jpg)
+![Weather Forecast](docs/screenshots/weather forcast.jpg)
+![Attendance Over School Days](docs/screenshots/attendance over school days.jpg)
 
 ---
 

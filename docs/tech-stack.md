@@ -1,9 +1,12 @@
 # Tech Stack
 
-- Laravel X.X
-- PHP X.X
-- Composer X.X
-- Database: MySQL/PostgreSQL X.X
+# Tech Stack
+
+- Laravel 12.54.1
+- PHP 8.2.12
+- Composer 2.9.5
+- Database: MySQL 8.0
 - Other packages:
-  - Package 1
-  - Package 2
+  - Laravel Sanctum
+  - Laravel Breeze
+  - Any other important package

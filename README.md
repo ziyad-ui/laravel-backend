@@ -29,7 +29,7 @@ This repository contains the **backend** API for **STUDENT DASHBOARD/MANAGEMENT 
 ---
 ### 4. Video Demonstration
 
-[Watch the video]()
+[Watch the video](https://drive.google.com/file/d/1WGxWJp2aj0HUVz53SxFHsLEeCBWwkg5Z/view?usp=drive_link)
 
 ---
 ### 5. Getting Started (Local Setup)
